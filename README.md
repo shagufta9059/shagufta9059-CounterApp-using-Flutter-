@@ -1,17 +1,4 @@
-# myapp
+Counter-App-using-Flutter
+i am doing intership at Robokalam my project is based on Android development so doing project using Flutter.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# shagufta9059-CounterApp-using-Flutter-
+A simple Flutter app that displays a counter with two buttons: Add and Remove. The Add button increases the count by 1, while the Remove button decreases it by 1. The app uses StatefulWidget to manage and update the counter state dynamically in response to user interaction.
